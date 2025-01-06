@@ -1,0 +1,10 @@
+*.data
+*.example*
+*~
+example
+example*
+data
+**/.idea
+**/cmake-build-debug
+**/cmake-build-release
+day*.txt
